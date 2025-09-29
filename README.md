@@ -6,23 +6,11 @@ A modern, responsive React.js portfolio website showcasing frontend development 
 
 🎨 Dynamic Hero Section – Type animation showcasing multiple developer roles (Web Developer, Frontend Developer, React Developer, etc.)
 
-article
-
-.
-
 🌓 Dark/Light Mode – Context API-powered theme switcher to toggle between light and dark UI modes
-
-contextmode
-
-.
 
 📄 Downloadable Resume – Quick access to CV in PDF format.
 
 ✉️ Contact Form – EmailJS integration to send messages directly from the website
-
-email
-
-.
 
 🔗 Social Links – Quick links to LinkedIn, GitHub, Instagram, and Email.
 
