@@ -1,12 +1,43 @@
-# React + Vite
+🌐 React Portfolio - Karan Sahu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive React.js portfolio website showcasing frontend development skills, interactive animations, and a contact system powered by EmailJS. This project is built using React, Tailwind CSS, and React Router, and is optimized for performance, accessibility, and developer experience.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Dynamic Hero Section – Type animation showcasing multiple developer roles (Web Developer, Frontend Developer, React Developer, etc.)
 
-## Expanding the ESLint configuration
+article
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+.
+
+🌓 Dark/Light Mode – Context API-powered theme switcher to toggle between light and dark UI modes
+
+contextmode
+
+.
+
+📄 Downloadable Resume – Quick access to CV in PDF format.
+
+✉️ Contact Form – EmailJS integration to send messages directly from the website
+
+email
+
+.
+
+🔗 Social Links – Quick links to LinkedIn, GitHub, Instagram, and Email.
+
+💡 Responsive Design – Fully responsive UI optimized for all screen sizes.
+
+🛠️ Tech Stack
+
+⚛️ React.js – UI components and rendering.
+
+🎨 Tailwind CSS – Modern utility-first CSS styling.
+
+🧠 Context API – Global state management for theme mode.
+
+🔁 React Router – Page navigation and routing.
+
+✉️ EmailJS – Email service integration without backend.
+
+🖋️ React-Type-Animation – Typing effect in hero section.
